@@ -2,7 +2,7 @@ package nio.buffer;
 
 import java.nio.CharBuffer;
 import java.util.Arrays;
-// chuan a s
+// chuan  sd
 //创建缓冲区的两种方式
 //1.allocate 2.wrap
 public class Test03 {
