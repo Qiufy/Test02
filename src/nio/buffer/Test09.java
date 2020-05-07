@@ -30,7 +30,7 @@ public static void main(String[] args) throws IOException {
        //文件属性保存到缓冲区
        ByteBuffer header=ByteBuffer.wrap(headertext.getBytes());
 	  //存储文件内容类型缓冲区
-       ByteBuffer contentBuf=ByteBuffer.allocate(128);
+       ByteBuffer contentBuf=ByteBuffer.allocate(128);  
        //缓冲区数组
        ByteBuffer[] gather= {header,contentBuf,null};
        
