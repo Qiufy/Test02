@@ -4,6 +4,7 @@ import java.nio.CharBuffer;
 import java.util.Arrays;
 //批量读取和写入缓冲区buffer
 public class Test02 {
+	//1111111111111111111111
 public static void main(String[] args) {
 	CharBuffer buf=CharBuffer.allocate(16);
 	buf.put("hello你知道你真他妈的牛B吗");
