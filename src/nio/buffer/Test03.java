@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class Test03 {
 public static void main(String[] args) {
 	CharBuffer buf1=CharBuffer.allocate(16);
-	
+	System.out.println("");
 	char[] array=new char[16];
 	CharBuffer buf2=CharBuffer.wrap(array);
 	buf2.put("hello");
