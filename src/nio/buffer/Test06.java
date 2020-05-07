@@ -6,6 +6,7 @@ import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.channels.FileChannel.MapMode;
 //RandomAccessFile的channnel可以双向双向读写hjdsjdsas
+//sbsbsb
 public class Test06 {
 public static void main(String[] args) {
 	File file=new File("out.txt");
