@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.io.RandomAccessFile;
 import java.nio.channels.FileChannel;
-
+//dksdksk
 //通道与通道之间的传输
 public class Test08 {
 public static void main(String[] args) {
